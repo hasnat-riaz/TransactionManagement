@@ -1,0 +1,32 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/d:DAL/d:Gateway/f:CourseGateway.cs" caret="1252" fromTop="5" />
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/d:DAL/d:Gateway/f:App.config" caret="105" fromTop="4" />
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/f:TraineeEntryUI.cs" caret="1605" fromTop="14" />
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/d:DAL/d:Gateway/f:TraineeGateway.cs" caret="1604" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/d:DAL/d:Gateway/f:App.config" caret="59" fromTop="2" />
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/d:DAL/d:Gateway/f:App.config" caret="122" fromTop="4" />
+      <File id="34D33D68-9CCC-4A68-AF6B-A98F06892DBE/d:DAL/d:Gateway/f:TraineeGateway.cs" caret="2698" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

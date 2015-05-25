@@ -1,0 +1,36 @@
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe.config
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.pdb
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.Properties.Resources.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.TraineeEntryUI.resources
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\ResGen.read.1.tlog
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\ResGen.write.1.tlog
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.exe
+D:\OOP Training (.Net) @ BASIS\Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.pdb
+G:\BASIS\.Net Course Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe.config
+G:\BASIS\.Net Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.exe
+G:\BASIS\.Net Course Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.pdb
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe.config
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.exe
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.pdb
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.pdb
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.Properties.Resources.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.TraineeEntryUI.resources
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\ResGen.read.1.tlog
+D:\OOP(.Net) @ BASIS\Final Content\Database\TransactionManagement\DBAccessFromApplication\obj\Debug\ResGen.write.1.tlog
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe.config
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.exe
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.pdb
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.pdb
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.Properties.Resources.resources
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.TraineeEntryUI.resources
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\ResGen.read.1.tlog
+D:\OOP(.Net) @ BASIS\OOP0140\Code\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\ResGen.write.1.tlog
+G:\C#\Training Program in BASIS\(Class no 16) 3 May\03-May-2013\03-May-2013\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\bin\Debug\DBAccessFromApplication.exe.config
+G:\C#\Training Program in BASIS\(Class no 16) 3 May\03-May-2013\03-May-2013\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.exe
+G:\C#\Training Program in BASIS\(Class no 16) 3 May\03-May-2013\03-May-2013\03-May-2013-Code\TransactionManagement\DBAccessFromApplication\obj\Debug\DBAccessFromApplication.pdb
